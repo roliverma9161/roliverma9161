@@ -7,9 +7,6 @@
 <br>
 <div align="center">
 
-# Hi 👋, I'm Roli Verma
-
-### 💻 Full Stack Web Developer | B.Tech CSE Student | React & Next.js Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Learner;Node.js+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Things"/>
 
