@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Roli Verma Banner"/>
+
+</div>
+
+<br>
+<div align="center">
+
 # Hi 👋, I'm Roli Verma
 
 ### 💻 Full Stack Web Developer | B.Tech CSE Student | React & Next.js Developer
