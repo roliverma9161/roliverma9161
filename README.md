@@ -23,6 +23,7 @@
 </div>
 
 ---
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # 👨‍💻 About Me
 
@@ -76,7 +77,7 @@ Fun Fact:
 ```
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🚀 What I'm Doing
 
 - 🌱 Learning **React.js**, **Next.js**, **Node.js**, and **Express.js**
@@ -138,7 +139,7 @@ Fun Fact:
 </p>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🚀 Featured Projects
 
 <table>
@@ -175,6 +176,8 @@ A modern and fully responsive personal portfolio website showcasing my skills, p
 
 ---
 
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
 <table>
 
 <tr>
@@ -209,6 +212,8 @@ A collection of React.js applications including:
 
 ---
 
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
 <table>
 
 <tr>
@@ -236,7 +241,7 @@ Learning modern web development by building real-world projects with Next.js.
 </table>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 <table>
 
 <tr>
@@ -264,6 +269,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 </table>
 
 ---
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # 📚 Currently Learning
 
@@ -283,6 +289,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 </div>
 
 ---
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # 🎯 2026 Goals
 
@@ -295,6 +302,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 - ✅ Build an impressive developer portfolio
 
 ---
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 <div align="center">
 
@@ -314,6 +322,8 @@ Building REST APIs and backend applications using Node.js and Express.js.
 
 ---
 
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -326,6 +336,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 
 ---
 
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -335,7 +346,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 </div>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 📈 Contribution Graph
 
 <div align="center">
@@ -345,7 +356,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 </div>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 💻 Coding Profiles
 
 <div align="center">
@@ -371,7 +382,7 @@ Building REST APIs and backend applications using Node.js and Express.js.
 </div>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🛠 Development Workflow
 
 ```text
@@ -394,7 +405,7 @@ Improve 🔥
 ```
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 📅 My Coding Journey
 
 ```text
@@ -419,7 +430,7 @@ Future ████████████████████████�
 </div>
 
 ---
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🎯 2026 Roadmap
 
 - 🚀 Build 20+ Real World Projects
@@ -497,6 +508,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 </div>
 
 ---
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # ❤️ Thanks for Visiting
 
