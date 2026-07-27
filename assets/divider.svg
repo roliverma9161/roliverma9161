@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+
+  <defs>
+    <!-- Gradient -->
+    <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left Line -->
+  <line x1="40" y1="40" x2="470" y2="40"
+        stroke="url(#lineGradient)"
+        stroke-width="3"
+        filter="url(#glow)">
+
+    <animate attributeName="stroke-dasharray"
+             values="0,500;500,0;0,500"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <!-- Right Line -->
+  <line x1="730" y1="40" x2="1160" y2="40"
+        stroke="url(#lineGradient)"
+        stroke-width="3"
+        filter="url(#glow)">
+
+    <animate attributeName="stroke-dasharray"
+             values="0,500;500,0;0,500"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <!-- Center Box -->
+  <rect x="485" y="18"
+        width="230"
+        height="44"
+        rx="22"
+        fill="#0F172A"
+        stroke="#38BDF8"
+        stroke-width="2"
+        filter="url(#glow)">
+
+    <animate attributeName="stroke"
+             values="#38BDF8;#FFFFFF;#38BDF8"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Text -->
+  <text x="600"
+        y="47"
+        text-anchor="middle"
+        font-family="JetBrains Mono, monospace"
+        font-size="20"
+        font-weight="700"
+        fill="#38BDF8">
+
+    ───── ROLI ─────
+
+    <animate attributeName="fill"
+             values="#38BDF8;#FFFFFF;#38BDF8"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+</svg>
