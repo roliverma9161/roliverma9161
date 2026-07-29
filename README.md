@@ -28,13 +28,13 @@
 # 👨‍💻 About Me
 
 ```yaml
-Name: Roli Verma
+Name: Roli Verma || MERN Stack Developer 
 
 Education:
   B.Tech CSE (AKTU)
 
 Role:
-  Full Stack Web Developer
+  Full Stack Web Developer , MERN Stack Developer
 
 Location:
   India 🇮🇳
