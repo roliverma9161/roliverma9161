@@ -477,14 +477,14 @@ If you like my work, consider giving a ⭐ to my repositories.
 &nbsp;&nbsp;&nbsp;
 
 <!-- Add your LinkedIn URL -->
-<a href="#">
+<a href="https://www.linkedin.com/in/roli-verma-170666315?">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <!-- Add your Gmail -->
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:your-vermaroli906@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
