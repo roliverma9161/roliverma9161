@@ -435,7 +435,7 @@ Future ████████████████████████�
 
 - 🚀 Build 20+ Real World Projects
 - 🌐 Master React.js
-- ⚡ 
+- ⚡ Learn Next.js Deeply
 - 🔥 Build REST APIs
 - 🗄 Master MongoDB
 - 📚 Improve DSA
