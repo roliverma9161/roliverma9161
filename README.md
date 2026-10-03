@@ -232,7 +232,7 @@ Learning modern web development by building real-world projects with Next.js.
 
 <td>
 
-<img src="https://placehold.co/600x350/000000/ffffff?text=Next.js+Projects"/>
+
 
 </td>
 
