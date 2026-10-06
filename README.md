@@ -166,7 +166,7 @@ A modern and fully responsive personal portfolio website showcasing my skills, p
 
 <td>
 
-
+<img src="https://placehold.co/600x350/0f172a/ffffff?text=Portfolio+Website"/>
 
 </td>
 
