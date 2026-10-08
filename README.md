@@ -94,7 +94,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js"/>
+
 
 </p>
 
