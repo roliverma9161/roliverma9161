@@ -102,7 +102,7 @@ Fun Fact:
 
 ## 🎨 Frontend Development
 
-
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs"/>
 
