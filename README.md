@@ -174,6 +174,7 @@ A modern and fully responsive personal portfolio website showcasing my skills, p
 
 </table>
 
+
 ---
 
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
