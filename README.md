@@ -84,7 +84,7 @@ Fun Fact:
 - 💻 Building responsive full-stack web applications
 - 📚 Strengthening DSA and problem-solving skills
 - 🚀 Creating projects to improve my portfolio
-- 🎯 
+- 🎯 Preparing for internships and software engineering roles
 
 ---
 
