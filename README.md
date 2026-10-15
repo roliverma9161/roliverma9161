@@ -23,7 +23,6 @@
 </div>
 
 ---
-<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # 👨‍💻 About Me
 
