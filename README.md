@@ -154,7 +154,7 @@ A modern and fully responsive personal portfolio website showcasing my skills, p
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
 
 <br><br>
 
