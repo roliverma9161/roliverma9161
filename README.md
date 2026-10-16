@@ -88,7 +88,7 @@ Fun Fact:
 
 ---
 
-# 💻 Tech Stack
+# 💻 
 
 ## 🚀 Languages
 
