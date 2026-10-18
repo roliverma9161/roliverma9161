@@ -114,6 +114,7 @@ Fun Fact:
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 </p>
 
