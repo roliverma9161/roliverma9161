@@ -104,7 +104,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs"/>
+
 
 </p>
 
