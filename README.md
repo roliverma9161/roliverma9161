@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Roli Verma Banner"/>
 
-
-
 </div>
 
 <br>
