@@ -71,9 +71,8 @@ Goal:
 
 Fun Fact:
   I enjoy turning ideas into responsive and modern web applications.
-```
 
----
+
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 🚀 What I'm Doing
 
