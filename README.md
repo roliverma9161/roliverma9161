@@ -11,8 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;React.js+Developer;Next.js+Learner;Node.js+%7C+Express.js;Building+Modern+Web+Applications;Always+Learning+New+Things"/>
 
 <br>
-
-
 <img src="https://komarev.com/ghpvc/?username=roliverma9161&style=for-the-badge&color=0EA5E9"/>
 
 <img src="https://img.shields.io/github/followers/roliverma9161?style=for-the-badge&logo=github&label=Followers"/>
