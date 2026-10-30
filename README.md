@@ -80,7 +80,7 @@ Fun Fact:
 - 🚀 Creating projects to improve my portfolio
 - 🎯 Preparing for internships and software engineering roles
 
----
+
 
 # 💻 
 
