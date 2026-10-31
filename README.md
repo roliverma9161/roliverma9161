@@ -25,10 +25,8 @@ Education:
   
 Role:
   Full Stack Web Developer , MERN Stack Developer
-
 Location:
   India 🇮🇳
-
 Frontend:
   - HTML5
   - CSS3
