@@ -12,7 +12,6 @@
 </div>
 <img src="./assets/divider.svg" width="100%" alt="divider"/>
 # 👨‍💻 About Me
-
 Name: Roli Verma || MERN Stack Developer 
 Education:
   B.Tech CSE (AKTU)
