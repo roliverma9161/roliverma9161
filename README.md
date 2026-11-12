@@ -15,7 +15,6 @@
 Name: Roli Verma || MERN Stack Developer 
 Education:
   B.Tech CSE (AKTU)
-  
 Role:
   Full Stack Web Developer , MERN Stack Developer
 Location:
