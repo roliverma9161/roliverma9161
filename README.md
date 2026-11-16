@@ -68,7 +68,7 @@ Fun Fact:
 - 🚀 Creating projects to improve my portfolio
 - 🎯 Preparing for internships and software engineering roles
 
-
+<img src="./assets/divider.svg" width="100%" alt="divider"/>
 
 # 💻 
 
