@@ -32,7 +32,7 @@ Frontend:
   - Bootstrap
 
 Backend:
-  - Node.js
+  - 
   - Express.js
 
 Database:
