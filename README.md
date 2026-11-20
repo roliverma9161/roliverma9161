@@ -58,8 +58,7 @@ Goal:
 
 Fun Fact:
   I enjoy turning ideas into responsive and modern web applications.
-
-
+  
 
 # 🚀 What I'm Doing
 
