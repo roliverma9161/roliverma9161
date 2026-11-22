@@ -23,7 +23,7 @@ Role:
 Location:
   India 🇮🇳
 Frontend:
-  - 
+  - HTML5
   - CSS3
   - JavaScript
   - React.js
