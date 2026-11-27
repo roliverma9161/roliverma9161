@@ -15,7 +15,6 @@
 
 # 👨‍💻 About Me
 
-
 Name: Roli Verma || MERN Stack Developer 
 
 Education:
